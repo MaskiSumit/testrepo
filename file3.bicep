@@ -10,3 +10,5 @@ resource storageaccount 'Microsoft.Storage/storageAccounts@2023-05-01' = {
     name: 'Premium_LRS'
   }
 }
+
+//Need to get changes done on this template
