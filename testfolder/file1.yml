@@ -32,6 +32,6 @@ steps:
     azureResourceManagerConnection: 'spn-azure--contributor-002'
     subscriptionId: 'fea4c865-1e54-44b3-ba1d-07315468f083'
     resourceGroupName: 'rg-idn-'
-    location: 'West Europe'
+    location: 'eastus'
     csmFile: ARMTemplates/storage/azuredeploy.json
     csmParametersFile: ARMTemplates/storage/azuredeploy.parameters.json
